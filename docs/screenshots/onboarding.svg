@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect x="70" y="70" width="1060" height="535" rx="26" fill="#ffffff" opacity="0.96"/>
+  <text x="120" y="155" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#0f172a">
+    Onboarding Flow
+  </text>
+  <text x="120" y="205" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#334155">
+    Replace this placeholder with a real screenshot of the onboarding steps.
+  </text>
+  <rect x="120" y="255" width="320" height="260" rx="16" fill="#e2e8f0"/>
+  <rect x="460" y="255" width="320" height="260" rx="16" fill="#f1f5f9"/>
+  <rect x="800" y="255" width="280" height="260" rx="16" fill="#dbeafe"/>
+  <text x="140" y="395" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#475569">
+    Step 1
+  </text>
+  <text x="480" y="395" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#475569">
+    Step 2
+  </text>
+  <text x="820" y="395" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#1e3a8a">
+    Step 3
+  </text>
+</svg>

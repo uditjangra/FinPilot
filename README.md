@@ -18,6 +18,11 @@ FinPilot is a personal finance web app with onboarding-first authentication, a s
 - Expense, income, EMI, and goal tracking
 - Profile and settings management
 
+## Screenshots
+![Landing](docs/screenshots/landing.svg)
+![Onboarding](docs/screenshots/onboarding.svg)
+![Dashboard](docs/screenshots/dashboard.svg)
+
 ## Getting Started
 
 ### 1) Install dependencies
@@ -35,6 +40,7 @@ VITE_FIREBASE_STORAGE_BUCKET=...
 VITE_FIREBASE_MESSAGING_SENDER_ID=...
 VITE_FIREBASE_APP_ID=...
 ```
+You can use `.env.example` as a template.
 
 ### 3) Run the app
 ```bash
@@ -69,3 +75,6 @@ service cloud.firestore {
 - `npm run build` — production build
 - `npm run preview` — preview build
 - `npm run lint` — lint codebase
+
+## License
+MIT
