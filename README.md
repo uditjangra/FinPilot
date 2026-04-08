@@ -19,9 +19,9 @@ FinPilot is a personal finance web app with onboarding-first authentication, a s
 - Profile and settings management
 
 ## Screenshots
-![Landing](docs/screenshots/landing.svg)
-![Onboarding](docs/screenshots/onboarding.svg)
-![Dashboard](docs/screenshots/dashboard.svg)
+![Landing](landingpage.png)
+![Onboarding](onboardingprocess.png)
+![Dashboard](dashboard.png)
 
 ## Getting Started
 
